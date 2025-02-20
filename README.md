@@ -11,8 +11,8 @@
 
 ## 🤝 Let's Connect
 
-- 📫 Reach me at: [Your Email or Social Media]
-- 🌍 Check out my projects: [Your GitHub Link]
+- 📫 Reach me at: here or on Instagram: @tastake
+- 🌍 Check out my projects: -
 - 💼 Open to collaborations and exciting opportunities
 
 ## 🎯 Goals
