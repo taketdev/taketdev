@@ -5,7 +5,7 @@
 - 🛠 Skilled in HTML, CSS & JavaScript
 - 👀 Passionate about web development, especially front-end design and UI/UX
 - 🌱 Currently learning advanced JavaScript & exploring backend technologies
-- 💻 Working on "Fotogram" – a sleek photo gallery project & a food ordering app
+- 💻 Working on a Pokédex – learning how to work with APIs & exploring Firebase integration
 - 🔧 Building my own JavaScript wiki for better understanding and documentation
 - 🎨 Enthusiastic about creating intuitive and visually appealing user interfaces
 
