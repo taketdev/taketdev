@@ -21,6 +21,10 @@
 - Expand knowledge in full-stack development
 - Continuously improve coding skills and stay updated with new technologies
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@devtaket/30-nites-of-code)  
+  ![@devtaket #30NitesOfCode](https://www.codedex.io/api/petStatus?user=devtaket)
+
 
 <!---
 taketdev/taketdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
