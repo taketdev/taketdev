@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Max! [taketdev]!
+# 👋 Hi, I'm Max!
 
 ## 🚀 About Me
 
